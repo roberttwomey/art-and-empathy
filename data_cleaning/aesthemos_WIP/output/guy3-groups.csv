@@ -1,12 +1,12 @@
-Artist,ArtistBeautiful,Beautiful,Calm,Fascinated,Funny,Gallery,Indifferent,Moved,Surprised,Title,Unsettled
-Stuart Davis,,2.0,5,1,5,001,3,7,5,Composition with Boats,1
-Arthur Garfield Dove,,2.0,5,1,5,001,3,1,3,Formation I,1
-Daniel Garber,,4.0,4,3,1,001,2,3,4,Junior Camp,1
-Guy Orlando Rose,,3.0,4,2,1,001,4,2,2,"Late Afternoon, Giverny",1
-Francis Luis Mora,,3.0,4,3,1,001,4,2,3,Morning News,1
-Robert Henri,,3.0,4,2,4,001,4,2,2,Mukie,1
-Milton Avery,,1.0,5,1,7,001,1,1,7,Pool in the Mountains,1
-Morgan Russell,,2.0,4,4,1,001,2,2,4,Still-life Synchromy with Nude in Yellow,1
-Theodore Robinson,,3.0,5,3,1,001,5,2,3,The Edge of the Forest,1
-George Copeland Ault,,3.0,5,2,1,001,5,1,2,Untitled,1
-Janet Sobel,,2.0,4,2,4,001,2,1,4,Untitled,1
+Artist,ArtistBeautiful,Beautiful,Calm,Fascinated,Funny,Gallery,Indifferent,Moved,Surprised,Title,Unique ID,Unsettled
+Stuart Davis,,2.0,5,1,5,001,3,7,5,Composition with Boats,1005.0,1
+Arthur Garfield Dove,,2.0,5,1,5,001,3,1,3,Formation I,1006.0,1
+Daniel Garber,,4.0,4,3,1,001,2,3,4,Junior Camp,1007.0,1
+Guy Orlando Rose,,3.0,4,2,1,001,4,2,2,"Late Afternoon, Giverny",,1
+Francis Luis Mora,,3.0,4,3,1,001,4,2,3,Morning News,1010.0,1
+Robert Henri,,3.0,4,2,4,001,4,2,2,Mukie,1009.0,1
+Milton Avery,,1.0,5,1,7,001,1,1,7,Pool in the Mountains,1002.0,1
+Morgan Russell,,2.0,4,4,1,001,2,2,4,Still-life Synchromy with Nude in Yellow,1013.0,1
+Theodore Robinson,,3.0,5,3,1,001,5,2,3,The Edge of the Forest,1011.0,1
+George Copeland Ault,,3.0,5,2,1,001,5,1,2,Untitled,1001.0,1
+Janet Sobel,,2.0,4,2,4,001,2,1,4,Untitled,1014.0,1
