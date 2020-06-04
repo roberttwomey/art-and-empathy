@@ -2,8 +2,8 @@ Artist,ArtistBeautiful,Beautiful,Calm,Fascinated,Funny,Gallery,Indifferent,Moved
 Maximilien Luce,,3.0,4,3,1,019,4,2,1,Notre Dame,1906.0,1
 Èdouard Vuillard,,2.0,5,2,1,019,5,1,2,Tea at Madame Vuillard's,,1
 Georges Braque,,2.0,5,2,2,019,5,1,1,The Corn-poppies,1903.0,1
-Henri de Toulouse-Lautrec,,2.0,5,2,2,019,5,1,1,The Masked Ball at the Elysée Montmartre,,1
-Berthe Morisot,,3.0,5,2,1,019,5,1,2,The Seine Valley at Mézy,,1
+Henri de Toulouse-Lautrec,,2.0,5,2,2,019,5,1,1,The Masked Ball at the Elysée Montmartre,1909.0,1
+Berthe Morisot,,3.0,5,2,1,019,5,1,2,The Seine Valley at Mézy,1908.0,1
 Thomas Hart Benton,,2.0,5,2,1,003,5,2,2,After Many Days,3003.0,2
 José Agustin Arrieta,,4.0,5,4,1,003,2,3,4,Still-life,,1
 Raphaelle Peale,,5.0,5,5,1,003,2,3,5,Still-life with Peaches,3007.0,1
@@ -36,7 +36,7 @@ Giovanni Bonsi,,3.0,4,4,1,016,4,3,2,Saint Nicholas of Bari,1605.0,1
 The Astorga Master,,4.0,5,5,1,016,3,4,1,Saint Peter,1601.0,1
 de Ribera,,4.0,5,5,1,016,2,5,5,Susanna and the Elders,1628.0,3
 Hieronymus Bosch,,4.0,5,3,5,016,2,3,5,The Arrest of Christ,1606.0,2
-Luca Signorelli,,5.0,5,5,1,016,2,5,3,The Coronation of the Virgin,1622.0,1
+ Luca Signorelli,,5.0,5,5,1,016,2,5,3,The Coronation of the Virgin,,1
 Martin Bernat,,4.0,3,4,1,016,2,4,3,The Crucifixion,,4
 Peter Paul Reubens,,6.0,6,6,1,016,2,4,3,"The Holy Family with Saints Francis, Anne, and John the Baptist",,1
 Giulio Cesare Procaccini,,3.0,3,3,1,016,4,2,2,The Penitent Magdalene,1618.0,5
@@ -48,7 +48,7 @@ Bellotto,,3.0,5,2,1,200,5,2,2,"The Molo from the Basin of San Marco, Venice",,1
 Stuart Davis,,2.0,5,1,5,001,3,1,5,Composition with Boats,1005.0,1
 Arthur Garfield Dove,,2.0,5,1,5,001,3,1,3,Formation I,1006.0,1
 Daniel Garber,,4.0,4,3,1,001,2,3,4,Junior Camp,1007.0,1
-Guy Orlando Rose,,3.0,4,2,1,001,4,2,2,"Late Afternoon, Giverny",1012.0,1
+Guy Orlando Rose,,3.0,4,2,1,001,4,2,2,"Late Afternoon, Giverny",,1
 Francis Luis Mora,,3.0,4,3,1,001,4,2,3,Morning News,1010.0,1
 Robert Henri,,3.0,4,2,4,001,4,2,2,Mukie,1009.0,1
 Milton Avery,,1.0,5,1,7,001,1,1,7,Pool in the Mountains,1002.0,1
@@ -57,7 +57,7 @@ Theodore Robinson,,3.0,5,3,1,001,5,2,3,The Edge of the Forest,1011.0,1
 George Copeland Ault,,3.0,5,2,1,001,5,1,2,Untitled,1001.0,1
 Janet Sobel,,2.0,4,2,4,001,2,1,4,Untitled,1014.0,1
 Chase,,4.0,5,3,1,100,3,3,3,Afternoon Stroll,10003.0,1
-Hurd,,5.0,5,5,1,100,2,4,5,Eve of Saint John,10005.0,2
+Hurd,,5.0,5,5,1,100,2,4,5,Eye of Saint John,,2
 Fries,,3.0,5,2,1,100,5,1,2,Game of Croquet,10008.0,1
 Braun,,3.0,5,2,1,100,5,2,3,Rock ledge in Autumn,10007.0,1
 Reiffel,,3.0,5,2,1,100,5,2,3,San Felipe Valley,10004.0,1

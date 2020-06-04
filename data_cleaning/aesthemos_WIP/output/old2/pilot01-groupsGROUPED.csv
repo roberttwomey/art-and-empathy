@@ -1,0 +1,67 @@
+Title,Artist,Gallery,Unique ID,Moved,Fascinated,Funny,Surprised,Indifferent,Calm,Unsettled,Beautiful,Arousal,Group
+Saint Peter,The Astorga Master,16,1601.0,4,4,5,4,4,5,2,3.0,17.0,hiPos
+Composition with Boats,Stuart Davis,1,1005.0,5,5,5,3,4,4,1,5.0,18.0,hiNeg
+Untitled,George Copeland Ault,1,1001.0,5,5,5,4,3,5,1,5.0,19.0,hiNeg
+Mukie,Robert Henri,1,1009.0,5,5,5,5,2,5,1,6.0,20.0,hiNeg
+Pool in the Mountains,Milton Avery,1,1002.0,5,5,5,5,2,4,1,4.0,20.0,hiNeg
+Still-life Synchromy with Nude in Yellow,Morgan Russell,1,1013.0,6,7,5,6,1,3,1,6.0,24.0,hiNeg
+"Farm Landscape, Cattle in Pasture--Sunset Nantucket",George Inness,2,2008.0,5,5,5,4,3,6,1,4.0,19.0,hiNeg
+Elizabeth Crowell with a Dog,Thomas Easkins,2,2006.0,5,4,5,4,3,5,1,4.0,18.0,hiNeg
+"Kilauea Caldera, Sandwich Islands",Jules Tavernier,2,2013.0,6,6,5,5,2,3,1,6.0,22.0,hiNeg
+After Many Days,Thomas Hart Benton,3,3003.0,5,5,3,4,3,3,1,4.0,17.0,hiNeg
+Still-life with Peaches,Raphaelle Peale,3,3007.0,5,5,2,5,3,4,1,5.0,17.0,hiNeg
+Woman Seated,Hans Hofmann,3,3009.0,4,5,5,5,3,3,1,4.0,19.0,hiNeg
+Madonna of the Roses,Pseudo Pier Francesco Fiorentino,16,1619.0,5,4,4,4,4,5,1,4.0,17.0,hiNeg
+The Penitent Magdalene,Giulio Cesare Procaccini,16,1618.0,5,4,5,4,5,5,1,4.0,18.0,hiNeg
+David with Head of Goliath,Antonio de Bellis,16,1603.0,5,5,3,5,3,4,1,6.0,18.0,hiNeg
+Madonna and Child,Carlo Crivelli,16,1609.0,5,5,4,4,3,5,1,5.0,18.0,hiNeg
+Saint Nicholas of Bari,Giovanni Bonsi,16,1605.0,4,4,5,5,3,5,1,4.0,18.0,hiNeg
+Flower Garland with the Holy Family,Daniel Seghers,16,1621.0,5,5,4,5,3,3,1,5.0,19.0,hiNeg
+Madonna and Child with the Young Saint John the Baptist and Angels,Giuliano Burgiardini,16,1607.0,5,5,5,4,3,3,1,5.0,19.0,hiNeg
+Mystical Marriage of Saint Catherine,Master of Frankfurt,16,1613.0,5,5,5,4,5,4,1,5.0,19.0,hiNeg
+"The Holy Family with Saints Francis, Anne, and John the Baptist",Peter Paul Reubens,16,,4,4,4,4,4,4,1,4.0,16.0,hiNeg
+Saint Jerome in the Wilderness,follower of Pietro Perugino,16,,4,4,4,4,4,5,1,3.0,16.0,hiNeg
+Notre Dame,Maximilien Luce,19,1906.0,5,5,3,5,3,4,1,4.0,18.0,hiNeg
+Eve of Saint John,Hurd,100,10005.0,5,4,4,4,4,5,1,4.0,17.0,hiNeg
+Game of Croquet,Fries,100,10008.0,4,4,5,4,4,4,1,3.0,17.0,hiNeg
+Sierra Lake,Payne,100,10009.0,5,5,2,4,3,5,1,5.0,16.0,hiNeg
+Torrey Pines,Fechin,100,10010.0,6,6,3,6,1,1,1,6.0,21.0,hiNeg
+San Felipe Valley,Reiffel,100,10004.0,5,5,2,4,4,5,1,4.0,16.0,hiNeg
+Maria at La Granja,Sorolla y Bastida,200,20002.0,5,5,2,5,3,3,1,5.0,17.0,hiNeg
+By the Seashore,Sorolla y Bastida,200,20001.0,5,5,5,3,4,4,1,4.0,18.0,hiNeg
+Seine in Parin,Dufy,200,20003.0,6,6,4,5,2,3,1,6.0,21.0,hiNeg
+Still-life,Emil J. Carlsen,2,2003.0,1,1,1,1,1,1,7,1.0,4.0,loPos
+The Crucifixion,Martin Bernat,16,,4,3,4,3,4,4,2,4.0,14.0,loPos
+The Arrest of Christ,Hieronymus Bosch,16,1606.0,3,3,3,3,3,3,6,3.0,12.0,loPos
+Afternoon Stroll,Chase,100,10003.0,5,4,2,4,4,6,2,4.0,15.0,loPos
+Junior Camp,Daniel Garber,1,1007.0,1,1,1,1,1,1,1,1.0,4.0,loNeg
+Untitled,Janet Sobel,1,1014.0,4,4,2,4,4,4,1,2.0,14.0,loNeg
+Mr. Paff,Henry Inman,2,2007.0,4,4,2,2,5,6,1,4.0,12.0,loNeg
+"Blue, White and Gold",Emil J. Carlsen,2,2019.0,5,4,2,2,3,6,1,4.0,13.0,loNeg
+Indian Village,Thomas Moran,2,2010.0,5,5,2,2,4,5,1,5.0,14.0,loNeg
+Holy Family with Saint Anne,Vincenzo Catena (Vincenzo di Biagio),16,,4,3,2,2,3,5,1,4.0,11.0,loNeg
+Madonna and Child with Infant John the Baptist,Fransesco Vecellio,16,1624.0,4,3,2,2,4,6,1,4.0,11.0,loNeg
+Susanna and the Elders,de Ribera,16,1628.0,4,3,4,3,4,4,1,4.0,14.0,loNeg
+"Male Saint, perhaps Saint Mark",Bartolommeo Vivarini,16,1625.0,4,4,3,3,5,5,1,4.0,14.0,loNeg
+Joseph Sold,His Brothers,16,,4,4,4,2,4,6,1,3.0,14.0,loNeg
+The Coronation of the Virgin,Luca Signorelli,16,1622.0,4,4,4,3,4,5,1,4.0,15.0,loNeg
+Madonna and Child with Angels,Giovanni di Paolo,16,1610.0,4,3,4,4,5,5,1,3.0,15.0,loNeg
+The Vision of Saint Anthony of Padua,Giovanni Battista Pittoni,16,1617.0,4,4,3,4,4,4,1,4.0,15.0,loNeg
+The Corn-poppies,Georges Braque,19,1903.0,4,3,4,2,4,6,1,3.0,13.0,loNeg
+The Masked Ball at the Elysée Montmartre,Henri de Toulouse-Lautrec,19,,4,4,2,4,3,5,1,4.0,14.0,loNeg
+The Seine Valley at Mézy,Berthe Morisot,19,,4,4,2,4,4,4,1,3.0,14.0,loNeg
+Tea at Madame Vuillard's,Èdouard Vuillard,19,,4,4,4,3,4,5,1,3.0,15.0,loNeg
+Rock ledge in Autumn,Braun,100,10007.0,4,4,2,2,4,5,1,4.0,12.0,loNeg
+Southern California Landscape,Braun,100,10002.0,5,4,2,2,4,5,1,4.0,13.0,loNeg
+The White Flower,O'Keefe,100,10001.0,5,4,2,3,5,5,1,4.0,14.0,loNeg
+"The Molo from the Basin of San Marco, Venice",Bellotto,200,,4,4,2,3,4,6,1,4.0,13.0,loNeg
+Morning News,Francis Luis Mora,1,1010.0,5,5,3,5,5,5,1,5.0,,indiff
+"Late Afternoon, Giverny",Guy Orlando Rose,1,1012.0,4,4,2,2,5,5,1,4.0,,indiff
+The Edge of the Forest,Theodore Robinson,1,1011.0,5,4,3,3,5,3,1,4.0,,indiff
+Formation I,Arthur Garfield Dove,1,1006.0,2,2,3,2,6,7,1,4.0,,indiff
+Portrait of Mrs. William Crane,Sarah Miriam Peale,2,2011.0,5,4,2,2,5,5,1,4.0,,indiff
+"Portrait of Colonel James Hervey Birch, Jr.",George Caleb Bingham,2,2002.0,3,2,2,2,6,6,1,4.0,,indiff
+Portrait in Grey and Black,Eduard Jean Steichen,2,2012.0,4,4,2,2,6,6,1,4.0,,indiff
+Still-life,José Agustin Arrieta,3,,3,3,2,2,5,4,7,3.0,,indiff
+Three Pigs and a Mountain,George Wesley,3,,5,5,4,4,5,6,1,4.0,,indiff
+Sunday Afternoon,Hughie Lee-Smith,3,3005.0,5,4,2,2,5,6,2,3.0,,indiff
